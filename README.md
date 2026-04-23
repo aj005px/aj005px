@@ -1,6 +1,6 @@
 ## Hi, I'm Arjun 💾
 
-🎓 Information Science & Engineering Student at RVITM (8.48 CGPA)<br/>
+🎓 Information Science & Engineering Student at RVITM (8.56 CGPA)<br/>
 🤖 AI/ML Enthusiast with an IBM certification in Artificial Intelligence<br/>
 🐍 Tech Stack: Python, MySQL, and basic C/Java<br/>
 🌱 Still learning: NumPy, Pandas, and Scikit-learn<br/>
